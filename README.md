@@ -129,22 +129,34 @@
 
 ---
 
-## Другое
+## Фото форензика
 
-+ [Поиск источника кода](https://searchcode.com)
-
-+ [Анализ типа файлов](https://www.toolsley.com/)
-
-+ [Анализ лайков](http://searchlikes.ru/login)
-
-**Фото форензика.**
-Cервисы позволяющие увидеть где правилась фотография
-
+**Cервисы позволяющие увидеть где правилась фотография**
 + http://fotoforensics.com/
 
 + https://29a.ch/photo-forensics/#level-sweep
 
-+ [Извлечение метаданных](http://www.findexif.com/)
+**Извлечение метаданных**
++ http://www.findexif.com/
+
++ http://exif.regex.info/exif.cgi
+
++ http://metapicz.com/#landing
+
+---
+
+## Другое
+
++ [Поиск источника кода](https://searchcode.com)
+
++ [Поиск синтаксически и семантически похожего кода](http://code-search.uni.lu/facoy)
+
++ [Поиск семантически похожих сайтов](https://www.similarsites.com/)
+
++ [Анализ типа файлов](https://www.toolsley.com/)
+
++ [Анализ лайков соц. сети VK](http://searchlikes.ru/login)
+
 
 **Агрегаторы информации об ip-адресе**
 + https://whatismyipaddress.com 
@@ -242,6 +254,7 @@ Cервисы позволяющие увидеть где правилась ф
 ## Различные Базы Данных
 
 + [Архив всего интернета](https://archive.org/)
++ [Кеш Поисковой системы Google](http://cachedview.com/)
 
 + [Отсортированная подборка баз данных с различных ресурсов (~400)](https://cloud.mail.ru/public/DoJB/7jVCevA3Y/)
 
@@ -269,7 +282,7 @@ Cервисы позволяющие увидеть где правилась ф
 
 + http://www.spy-soft.net/dokumenty-anb/ - Подробное описания части слитого следящего арсенала АНБ.
 
-+ https://www.i-intelligence.eu/wp-content/uploads/2018/06/OSINT_Handbook_June-2018_Final.pdf  Коллекция инструментов и методик для osint разведки середины 2018г.
++ https://www.i-intelligence.eu/wp-content/uploads/2018/06/OSINT_Handbook_June-2018_Final.pdf - Коллекция инструментов и методик для osint разведки середины 2018г.
 
 
 
