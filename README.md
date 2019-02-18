@@ -27,7 +27,14 @@
 
 + https://searchbyimages.com/
 
++ https://www.prepostseo.com/reverse-image-search
+
++ https://smallseotools.com/reverse-image-search/
+
++ http://karmadecay.com/r/maledom
+
 **Другое**
++ [Поиск по фото мошенников и фейков](http://scamdigger.com/picsearch.php)
 
 + [Поиск фото по геометкам в соц. сетях](http://sanstv.ru/photomap/)
 
