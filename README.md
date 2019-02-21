@@ -170,6 +170,8 @@
 
 + http://www.ipaddresslocation.org/ 
 
++ http://f.vision/
+
 **Проверка кода ІМЕІ**
 + [World](https://imei24.com/)
 
