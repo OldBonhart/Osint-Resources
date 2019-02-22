@@ -232,6 +232,8 @@
 
 + [Бот для поиска других ботов](https://telegram.me/storebo)
 
++ [Предоставляет координаты и адреса базовых станций](https://t.me/xinitbot)
+
 ---
 
 ## Текст
@@ -284,6 +286,10 @@
 ## Инструменты OSINT
 
 + https://inteltechniques.com/links.HTML
+
++ https://osintframework.com/
+
++ https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit#
 
 ---
 
