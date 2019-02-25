@@ -84,9 +84,19 @@
 
 + [Поиск в мировом архиве pdf документов](https://www.pdfsearch.io/) 
 
-+ [Многофункциональная поисковая система](https://www.shodan.io/),главным образом ищет подключенные к интернету устройства.
+**Cканирование портов** 
++ http://whois.domaintools.com/
 
-+ [Работает аналогично предыдущему](https://censys.io/)
++ https://whois.icann.org/en 
+
+**Захват баннер, определение ОС**
++ https://censys.io/
+
++ https://www.netcraft.com/
+
++ https://w3dt.net/tools/httprecon
+
++ https://www.shodan.io/
 
 + [Поиск публичных камер мира](https://www.earthcam.com/)
 
@@ -171,6 +181,10 @@
 + http://www.ipaddresslocation.org/ 
 
 + http://f.vision/
+
++ http://whois.domaintools.com/
+
++ https://whois.icann.org/en 
 
 + [Проверка куков](http://check2ip.com/)
 
