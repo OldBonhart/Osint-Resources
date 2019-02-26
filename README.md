@@ -13,7 +13,7 @@
 
 ## Поиск По Фотографиям
 
-**Лицо**
+**Поиск по лицу**
 + http://searchface.ru/			 
 
 + https://pimeyes.com/en/
@@ -33,12 +33,13 @@
 
 + http://karmadecay.com/r/maledom
 
-**Другое**
-+ [Поиск по фото мошенников и фейков](http://scamdigger.com/picsearch.php)
-
+**Поиск фото по геометкам в социальных сетях**
 + [Поиск фото по геометкам в соц. сетях](http://sanstv.ru/photomap/)
 
 + [Поисковик фотографий с привязкой к геолокации](http://worldc.am/)
+
+**Другое**
++ [Поиск по фото мошенников и фейков](http://scamdigger.com/picsearch.php)
 
 ---
 
@@ -80,16 +81,12 @@
 
 ## Различные Поисковые Системы
 
-+ [Поиск и извлечение данных из файлов pdf,таблиц excel,на страницах html.](http://www.zanran.com/)
-
-+ [Поиск в мировом архиве pdf документов](https://www.pdfsearch.io/) 
-
 **Cканирование портов** 
 + http://whois.domaintools.com/
 
 + https://whois.icann.org/en 
 
-**Захват баннер, определение ОС**
+**Захват баннера, определение ОС**
 + https://censys.io/
 
 + https://www.netcraft.com/
@@ -98,6 +95,12 @@
 
 + https://www.shodan.io/
 
+**Поисковые системы поисковых систем**
++ [Более 2500 стран мира](http://www.searchenginecolossus.com/)
+                        
++ [USA](https://www.100searchengines.com/) 
+
+**Другое**
 + [Поиск публичных камер мира](https://www.earthcam.com/)
 
 + [Геолокационная поисковая система](https://aprs.fi)
@@ -105,12 +108,7 @@
 + [Сканер домена](http://webboar.com.w3snoop.com/),помимо прочего выдает список релевантных косвенных ссылок на запрашиваемый ресурс.
 
 + [Архив запросов,поиск цифровых отпечатков пользователей сервиса whois](https://whoisology.com/)
-
-**Поисковые системы поисковых систем**
-+ [Более 2500 стран мира](http://www.searchenginecolossus.com/)
-                        
-+ [USA](https://www.100searchengines.com/)     	     
-
+    	     
 ---
 
 ## Обобщеный Поиск Информации
@@ -132,6 +130,8 @@
 **Дополнительная информация**
 + [DOB(дата рождения)](http://birthdatabase.com/)
 
++ + [Анализ лайков соц. сети VK](http://searchlikes.ru/login)
+
 + [SSN(номер соц. страхования граждан USA)](https://www.docusearch.com/find-a-social-security-number.html) 
 
 + [ИНН граждан RU](https://service.nalog.ru/inn.do)
@@ -146,7 +146,7 @@
 
 ---
 
-## Фото форензика
+## Форензика
 
 **Cервисы позволяющие увидеть где правилась фотография**
 + http://fotoforensics.com/
@@ -160,6 +160,9 @@
 
 + http://metapicz.com/#landing
 
+**Анализ типа файлов**
++ https://www.toolsley.com/)
+
 ---
 
 ## Другое
@@ -169,10 +172,6 @@
 + [Поиск синтаксически и семантически похожего кода](http://code-search.uni.lu/facoy)
 
 + [Поиск семантически похожих сайтов](https://www.similarsites.com/)
-
-+ [Анализ типа файлов](https://www.toolsley.com/)
-
-+ [Анализ лайков соц. сети VK](http://searchlikes.ru/login)
 
 
 **Агрегаторы информации об ip-адресе**
@@ -186,7 +185,9 @@
 
 + https://whois.icann.org/en 
 
-+ [Проверка куков](http://check2ip.com/)
++ https://www.hashemian.com/whoami/
+
++ [Проверка cookies](http://check2ip.com/)
 
 **Проверка кода ІМЕІ**
 + [World](https://imei24.com/)
@@ -232,23 +233,26 @@
 
 ## Telegram-Боты
 
-+ [Выдает приблизительные координаты человека по Украинскому номеру телефона](https://t.me/cesspoolNum_bot)
-
-+ [Генератор временных почтовых ящиков](https://telegramim.ru/@temp_mail_botTempMail)
++ [Бот генератор временных почтовых ящиков](https://telegramim.ru/@temp_mail_botTempMail)
 
 + [Бот для работы с открытыми данными](https://telegram.me/OpenDataUABot?start=source_webcom)
 
-+ [Определяет по номеру телефона регион и мобильного оператора](https://telegram.me/mnp_bot)
-
-+ [Поиск по картинкам Яндекса](https://telegram.me/pic)
++ [Бот для поиска по картинкам Яндекса](https://telegram.me/pic)
  
-+ [Работает по принципу предыдущего,только с gif форматом](https://telegram.me/gif)
++ [Работает по принципу предыдущего,только с gif](https://telegram.me/gif)
 
-+ [Предоставит курс, который вы запрашиваете](https://t.me/slivgrabberbot)
++ [Бот предоставляющий платное бесплатно](https://t.me/slivgrabberbot)
 
 + [Бот для поиска других ботов](https://telegram.me/storebo)
 
-+ [Предоставляет координаты и адреса базовых станций](https://t.me/xinitbot)
++ [Бот черный рынок](https://t.me/DarksaleBot)
+
+**Боты Определяющие по номеру телефона регион и мобильного оператора**
++ https://telegram.me/mnp_bot   
+
++ https://t.me/xinitbot   
+
++ https://t.me/cesspoolNum_bot   
 
 ---
 
@@ -257,6 +261,10 @@
 + [Поиск Первоисточника текста на английском язык](http://isce-library.net/epiView.aspx )
 
 + [Операторы продвинутого поиска](http://www.googleguide.com/advanced_operators_reference.html)
+
++ [Поиск и извлечение данных из файлов pdf,таблиц excel,на страницах html.](http://www.zanran.com/)
+
++ [Поиск в мировом архиве pdf документов](https://www.pdfsearch.io/) 
 
 ---
 
