@@ -308,6 +308,7 @@
 ---
 
 ## Инструменты OSINT
++ https://ciberpatrulla.com/links/
 
 + https://inteltechniques.com/links.HTML
 
