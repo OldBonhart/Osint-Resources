@@ -247,6 +247,8 @@
 
 + [Бот черный рынок](https://t.me/DarksaleBot)
 
++ @VkUrlBot - Бот дополнение к сервису http://searchface.ru/
+
 **Боты Определяющие по номеру телефона регион и мобильного оператора**
 + https://telegram.me/mnp_bot   
 
