@@ -14,7 +14,7 @@
 ## Поиск По Фотографиям
 
 **Поиск по лицу**
-+ http://searchface.ru/			 
++ http://searchface.ru/	+ @VkUrlBot		 
 
 + https://pimeyes.com/en/
 
@@ -130,7 +130,7 @@
 **Дополнительная информация**
 + [DOB(дата рождения)](http://birthdatabase.com/)
 
-+ + [Анализ лайков соц. сети VK](http://searchlikes.ru/login)
++ [Анализ лайков соц. сети VK](http://searchlikes.ru/login)
 
 + [SSN(номер соц. страхования граждан USA)](https://www.docusearch.com/find-a-social-security-number.html) 
 
