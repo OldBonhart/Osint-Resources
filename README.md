@@ -322,6 +322,8 @@
 
 + https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit#
 
++ https://github.com/Ph055a/OSINT-Collection
+
 ---
 
 ## Не Вошедшее ни в одну из вышеперечисленных категорий
