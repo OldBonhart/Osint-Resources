@@ -250,9 +250,14 @@
 
 + [Бот для поиска других ботов](https://telegram.me/storebo)
 
-+ [Бот черный рынок](https://t.me/DarksaleBot)
-
 + @VkUrlBot - Бот дополнение к сервису http://searchface.ru/
+
+**Боты черных рынков**
++ @Darksalebot
+
++ @SafeSocks_Bot
+
++ @flood_sms_bot
 
 **Боты Определяющие по номеру телефона регион и мобильного оператора**
 + https://telegram.me/mnp_bot   
